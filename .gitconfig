@@ -1,0 +1,5 @@
+[user]
+	email = ipfs-wing@program
+	name = ipfs-wing
+
+# git config --local include.path ../.gitconfig
