@@ -1,1 +1,1 @@
-i am ipfs-wing program - i am game
+i am ipfs-wing program
